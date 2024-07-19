@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <tonc.h>
 
-#include "../build/ground.h"
-#include "../build/player.h"
+#include "ground.h"
+#include "player.h"
 #include "tonc_input.h"
 #include "tonc_memdef.h"
 #include "tonc_oam.h"
